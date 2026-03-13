@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Automan1218&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Automan1218?style=for-the-badge&color=0e75b6&labelColor=1c1c2e&label=FOLLOWERS)](https://github.com/Automan1218)
+![Profile Views](https://komarev.com/ghpvc/?username=Automan&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Automan?style=for-the-badge&color=0e75b6&labelColor=1c1c2e&label=FOLLOWERS)](https://github.com/Automan)
 
 </div>
 
@@ -48,8 +48,6 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
@@ -62,22 +60,13 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 **Backend & Microservices**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**AI & Agent**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Database & Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Infra**
 
@@ -93,25 +82,28 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 
 <div align="center">
 
-<a href="https://github.com/Automan1218">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Automan1218&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automan1218&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<a href="https://github.com/Automan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Automan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Automan1218">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Automan1218&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakLabel=58a6ff"/>
+<a href="https://github.com/Automan">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Automan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakLabel=58a6ff"/>
 </a>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Automan1218&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3358&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
 <br/>
-
 
 
 ## 🤝 Connect with Me
@@ -119,7 +111,7 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-E1352289@u.nus.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:E1352289@u.nus.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Automan1218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Automan1218)
+[![GitHub](https://img.shields.io/badge/GitHub-Automan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Automan)
 
 </div>
 
