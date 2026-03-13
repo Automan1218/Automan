@@ -96,9 +96,9 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Automan1218/Automan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Automan1218/Automan/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Automan1218/Automan/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
