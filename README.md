@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Automan&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Automan?style=for-the-badge&color=0e75b6&labelColor=1c1c2e&label=FOLLOWERS)](https://github.com/Automan)
+![Profile Views](https://komarev.com/ghpvc/?username=Automan1218&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Automan1218?style=for-the-badge&color=0e75b6&labelColor=1c1c2e&label=FOLLOWERS)](https://github.com/Automan1218)
 
 </div>
 
@@ -82,23 +82,23 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 
 <div align="center">
 
-<a href="https://github.com/Automan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Automan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+<a href="https://github.com/Automan1218">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Automan1218&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automan1218&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Automan">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Automan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakLabel=58a6ff"/>
+<a href="https://github.com/Automan1218">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Automan1218&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakLabel=58a6ff"/>
 </a>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Automan/Automan/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Automan1218/Automan1218/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
@@ -111,7 +111,7 @@ motto: "Ship thoughtfully. Scale confidently. Keep learning."
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-E1352289@u.nus.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:E1352289@u.nus.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Automan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Automan)
+[![GitHub](https://img.shields.io/badge/GitHub-Automan1218-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Automan1218)
 
 </div>
 
